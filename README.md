@@ -1,8 +1,11 @@
 Praktikum K-Means Clustering
 
 Nama: Zhalsabila Amalia Putri
+
 NIM: 202431181
+
 Mata Kuliah: Pembelajaran Mesin
+
 Tanggal : 11 November 2026
 
 Deskripsi
